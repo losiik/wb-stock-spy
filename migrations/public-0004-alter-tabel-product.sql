@@ -1,0 +1,1 @@
+ALTER TABLE product ADD COLUMN wb_product_id INTEGER NOT NULL default 0;
