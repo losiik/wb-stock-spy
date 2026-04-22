@@ -3,3 +3,6 @@
 .DSstrore
 __pycache__/
 /wb_client_data
+/build
+/dist
+/db
